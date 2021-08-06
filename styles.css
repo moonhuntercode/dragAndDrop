@@ -1,0 +1,14 @@
+#caja1{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(76, 0, 255);
+    border: 1px solid rgb(162, 49, 255);
+    border-radius: 30px;
+    box-shadow: 0px 5px 38px 2px #830ff8;
+    color: white;
+}
+#contenedor2{
+    padding: 20px;
+    border:2px solid #830ff8;
+    height: 250px;
+}
